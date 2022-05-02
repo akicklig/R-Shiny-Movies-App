@@ -1,5 +1,5 @@
 # R-Shiny-Movies-App
-Created a Shiny Application exploring IMBd movies data.
+Created a Shiny Application exploring IMDb movies data.
 
 # Exploring Four Decades of Film through the IMDb Movies Database
 
