@@ -9,5 +9,7 @@ This app was developed as a part of Chase Romano's Visual Analytics course (Spri
 
 Data was sourced from the [Movie Industry Dataset on Kaggle](https://www.kaggle.com/datasets/danielgrijalvas/movies), which itself was ultimately scraped from [IMDb](https://www.imdb.com/) via Python by the original analyst, Daniel Grijalva.
 
+[Launch the Live Application](https://dsba5122ak.shinyapps.io/Four_Decades_of_Films/?_ga=2.6885170.1243509843.1651453056-393120491.1648505789)
+
 ---
 
