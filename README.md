@@ -15,3 +15,6 @@ Data was sourced from the [Movie Industry Dataset on Kaggle](https://www.kaggle.
 
 **How to Reproduce the App**
 
+If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
+
+1. Download all items in the 
