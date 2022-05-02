@@ -18,3 +18,7 @@ Data was sourced from the [Movie Industry Dataset on Kaggle](https://www.kaggle.
 If you wish to run the app from R Studio instead of going to the above link, you can use the following steps:
 
 1. Download all items in the *IMDb_Movies_App* folder.
+
+2. Open *Movies_App_Project.Rproj* in R Studio.
+
+3. 
