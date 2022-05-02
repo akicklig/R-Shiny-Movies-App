@@ -21,4 +21,8 @@ If you wish to run the app from R Studio instead of going to the above link, you
 
 2. Open *Movies_App_Project.Rproj* in R Studio.
 
-3. 
+3. Open app.R.
+
+4. Click "Run App" in the upper right corner of the code panel.
+
+5. (optional) Click "Open in Broswer" in the upper left corner of the app window if you wish to view in a broswer.
