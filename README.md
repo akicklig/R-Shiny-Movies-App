@@ -13,3 +13,5 @@ Data was sourced from the [Movie Industry Dataset on Kaggle](https://www.kaggle.
 
 ---
 
+####How to Reproduce the App
+
