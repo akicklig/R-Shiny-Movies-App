@@ -7,4 +7,4 @@ Created a Shiny Application exploring IMBd movies data.
 
 This app was developed as a part of Chase Romano's Visual Analytics course (Spring 2022) in the UNC Charlotte Data Science and Business Analytics Program.
 
-Data was sourced from the Move Industry Dataset on Kaggle , which itself was ultimately scraped from IMDb via Python by the original analyst, Daniel Grijalva.
+Data was sourced from the Movie Industry Dataset on Kaggle, which itself was ultimately scraped from IMDb via Python by the original analyst, Daniel Grijalva.
